@@ -1,5 +1,4 @@
 header {
-    background-color: rgb(24, 64, 24);
     padding: 10px;
 }
 
@@ -12,4 +11,13 @@ body {
 
 header img{
     width: 100%;
+    padding: 20px;
+
+    background-color: rgb(5, 45, 5);
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    background-color:antiquewhite;
 }
