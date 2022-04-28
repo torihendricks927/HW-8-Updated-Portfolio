@@ -20,6 +20,7 @@ header img{
     margin: 20px;
     padding: 20px;
     background-color:antiquewhite;
+    justify-content: center;
 }
 
 .contact {
@@ -27,3 +28,4 @@ header img{
     padding: 20px;
     background-color:antiquewhite;
 }
+
