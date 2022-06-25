@@ -1,7 +1,7 @@
-# HW-8-Updated-Portfolio
+# HW-Updated-Portfolio
 
 ## Link
-https://torihendricks927.github.io/HW-8-Updated-Portfolio/
+https://torihendricks927.github.io/Updated-Portfolio/
 
 ## Description
 Created an updated and more appealling portfolio page to demonstrate my skills and projects. My portfolio displays a photo of myself with a nav bar to take you throughout the page sections. It contains an area discussing a little about myself, followed by my projects, and my contact information with resume included. 
